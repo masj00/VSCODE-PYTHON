@@ -1,0 +1,3 @@
+venv er lokalt "library"
+
+source venv/bin/activate   # Linux/Mac
